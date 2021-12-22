@@ -1,0 +1,2 @@
+# cocosPorject
+QRCode&amp;FaceCollect
