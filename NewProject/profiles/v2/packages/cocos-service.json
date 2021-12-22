@@ -1,0 +1,16 @@
+{
+  "options": {
+    "web-desktop": {
+      "configID": "a71734",
+      "services": []
+    },
+    "ios": {
+      "configID": "a71734",
+      "services": []
+    }
+  },
+  "builder-options": {
+    "configID": "a71734",
+    "services": []
+  }
+}
